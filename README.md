@@ -1,0 +1,1 @@
+Here the model is trained with the prevoiusly collected data to learn about the loan presence of loan. So by using the trained model, we input the datas which are processed according to the previous datas and matching result which is our classification is given.
